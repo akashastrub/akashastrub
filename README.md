@@ -1,4 +1,11 @@
-### Hi there 👋
+### Thanks for stopping by! 👋
+
+I’m Akasha, a data scientist currently working at Novo Nordisk in Copenhagen, Denmark. My current work focuses on the Digital Health space, but this (personal) git profile focuses on anything that inspires me to code in my free time 😄 
+
+In case you are looking for an easy-to-read format, most of my git code ends on my personal [website](https://akashastrub.quarto.pub/).
+
+### Contact
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/akashastrub/), or via [email](mailto:akashastrub@gmail.com).
 
 <!--
 **akashastrub/akashastrub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
