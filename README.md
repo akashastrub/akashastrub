@@ -2,7 +2,7 @@
 
 I’m Akasha, a data scientist currently working at [Novo Nordisk](https://www.novonordisk.com/) in Copenhagen, Denmark. My current work focuses on the Digital Health space, but this (personal) git profile focuses on anything that inspires me to code in my free time 😄 
 
-In case you are looking for an easy-to-read format, most of my git code ends up on my personal [website](https://akashastrub.quarto.pub/).
+In case you are looking for an easy-to-read format, most of my git code ends up on my personal [website](www.akashastrub.com).
 
 ### Contact
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/akashastrub/), or via [email](mailto:akashastrub@gmail.com).
