@@ -1,6 +1,6 @@
 ### Thanks for stopping by! 👋
 
-I’m Akasha, a data scientist currently working at [Novo Nordisk](https://www.novonordisk.com/) in Copenhagen, Denmark. My current work focuses on the Digital Health space, but this (personal) profile focuses on anything that inspires me to code in my free time 😄 
+I’m Akasha, a data scientist currently working at [Novo Nordisk](https://www.novonordisk.com/) in Boston, Massachusetts. My current work focuses on the Digital Health space, but this (personal) profile focuses on anything that inspires me to code in my free time 😄 
 
 In case you are looking for an easy-to-read format, most of my git code ends up on my personal [website](http://www.akashastrub.com/).
 
